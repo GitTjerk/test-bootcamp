@@ -1,1 +1,1 @@
-this is my first line in my text file
+"This is my first line in my TEXT file. Lalala"
